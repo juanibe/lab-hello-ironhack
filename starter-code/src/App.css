@@ -1,0 +1,21 @@
+body{    
+    background-color: rgb(7,16,58);
+    background-image: url("images/react-logo.svg");
+    background-repeat: repeat-y;
+      
+}
+.App {
+    margin: 1rem;
+    font-family: Helvetica, sans-serif;
+
+}
+
+.but{
+    position: relative;
+    top:60%;
+}
+
+.title{color:white}
+
+.image{width: 300px}
+  
